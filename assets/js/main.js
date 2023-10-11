@@ -153,7 +153,7 @@ new Vue({
           
           {
             name: "17. Calling",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Calling_(256k).mp3",
             url: "",
@@ -162,7 +162,7 @@ new Vue({
           
           {
             name: "18. Can't Get Over You",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Can_t_Get_Over_You(256k).mp3",
             url: "",
@@ -171,7 +171,7 @@ new Vue({
           
           {
             name: "19. Can't Sleep",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Can_t_Sleep(256k).mp3",
             url: "",
@@ -180,7 +180,7 @@ new Vue({
           
           {
             name: "20. Chinese Fairytale",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Chinese_Fairytale(256k).mp3",
             url: "",
@@ -189,7 +189,7 @@ new Vue({
           
           {
             name: "21. DNA.",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/DNA.(256k).mp3",
             url: "",
@@ -198,7 +198,7 @@ new Vue({
           
           {
             name: "22. Duvet",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Duvet(128k).mp3",
             url: "",
@@ -207,7 +207,7 @@ new Vue({
           
           {
             name: "23. Dysnaties Dystopia",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Dynasties___Dystopia(256k).mp3",
             url: "",
@@ -216,7 +216,7 @@ new Vue({
           
           {
             name: "24. Element",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/ELEMENT.(256k).mp3",
             url: "",
@@ -225,7 +225,7 @@ new Vue({
           
           {
             name: "25. Everybody Gose",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/EVERYBODY_GOSE(256k).mp3",
             url: "",
@@ -234,7 +234,7 @@ new Vue({
           
           {
             name: "26. Family Ties",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/family_ties(256k).mp3",
             url: "",
@@ -243,7 +243,7 @@ new Vue({
           
           {
             name: "27. Flashback",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Flashback(256k).mp3",
             url: "",
@@ -252,7 +252,7 @@ new Vue({
           
           {
             name: "28. Gimme Love",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Gimme_Love(256k).mp3",
             url: "",
@@ -261,7 +261,7 @@ new Vue({
           
           {
             name: "29. Hawatari Nioku Centi",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/HAWATARI_NIOKU_CENTI(256k).mp3",
             url: "",
@@ -270,7 +270,7 @@ new Vue({
           
           {
             name: "30. Inferno",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Inferno(256k).mp3",
             url: "",
@@ -279,7 +279,7 @@ new Vue({
           
           {
             name: "31. It Was A Good Day",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/It_Was_A_Good_Day(256k).mp3",
             url: "",
@@ -288,7 +288,7 @@ new Vue({
           
           {
             name: "32. Kick Back",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/KICK_BACK(256k).mp3",
             url: "",
@@ -297,7 +297,7 @@ new Vue({
           
           {
             name: "33. KOMM_2C_SUSSER_TOD_M-10(128k)",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/KOMM_2C_SUSSER_TOD_M-10(128k).mp3",
             url: "",
@@ -306,7 +306,7 @@ new Vue({
           
           {
             name: "34. Lady (Here Me Tonight)",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Lady_(Here_Me_Tonight)(128k).mp3",
             url: "",
@@ -315,7 +315,7 @@ new Vue({
           
           {
             name: "35. Lucky_You_(Feat._Joyner_Lucas)",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Lucky_You_(Feat._Joyner_Lucas)_[Official_Audio](256k).mp3",
             url: "",
@@ -324,7 +324,7 @@ new Vue({
           
           {
             name: "36. m.A.A.d_city",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/m.A.A.d_city(256k).mp3",
             url: "",
@@ -333,7 +333,7 @@ new Vue({
           
           {
             name: "37. Messages from the Stars (Sped Up)",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Messages_from_the_Stars_(Sped_Up)(256k).mp3",
             url: "",
@@ -342,7 +342,7 @@ new Vue({
           
           {
             name: "38. Meteor",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Meteor(256k).mp3",
             url: "",
@@ -351,7 +351,7 @@ new Vue({
           
           {
             name: "39. Misato",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Misato(256k).mp3",
             url: "",
@@ -360,7 +360,7 @@ new Vue({
           
           {
             name: "40. YEAH RIGHT",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/YEAH_RIGHT(256k).mp3",
             url: "",
@@ -369,7 +369,7 @@ new Vue({
           
           {
             name: "41. Paradise",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Paradise(256k).mp3",
             url: "",
@@ -378,7 +378,7 @@ new Vue({
           
           {
             name: "42. Polaris",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Polaris(256k).mp3",
             url: "",
@@ -387,7 +387,7 @@ new Vue({
           
           {
             name: "43. Rapp_Snitch_Knishes_(feat._Mr._Fantastik)",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Rapp_Snitch_Knishes_(feat._Mr._Fantastik)(256k).mp3",
             url: "",
@@ -396,7 +396,7 @@ new Vue({
           
           {
             name: "44. REALiZE",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/REALiZE(256k).mp3",
             url: "",
@@ -405,7 +405,7 @@ new Vue({
           
           {
             name: "45. Run",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Run(256k).mp3",
             url: "",
@@ -414,7 +414,7 @@ new Vue({
           
           {
             name: "46. Sanctuary",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Sanctuary(256k).mp3",
             url: "",
@@ -423,7 +423,7 @@ new Vue({
           
           {
             name: "47. Strangers",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Strangers(256k).mp3",
             url: "",
@@ -432,7 +432,7 @@ new Vue({
           
           {
             name: "48. Tell Me Why",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Tell_Me_Why(256k).mp3",
             url: "",
@@ -441,7 +441,7 @@ new Vue({
           
           {
             name: "49. Thank You",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Thank_You(256k).mp3",
             url: "",
@@ -450,7 +450,7 @@ new Vue({
           
           {
             name: "50. Tick Tock",
-            artist: "",
+            artist: "Unknown",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/Tick_Tock(256k).mp3",
             url: "",
