@@ -215,7 +215,7 @@ new Vue({
           },
           
           {
-            name: "24. ELEMENT",
+            name: "24. Element",
             artist: "",
             cover: "./assets/img/.jpg",
             source: "./assets/mp3/ELEMENT.(256k).mp3",
@@ -281,7 +281,7 @@ new Vue({
             name: "31. It Was A Good Day",
             artist: "",
             cover: "./assets/img/.jpg",
-            source: "./assets/mp3/It_Was_A_Good_Day(256k)mp3",
+            source: "./assets/mp3/It_Was_A_Good_Day(256k).mp3",
             url: "",
             favorited: false
           },
@@ -296,10 +296,10 @@ new Vue({
           },
           
           {
-            name: "33. KOMM_2C_SUSSER_TOD_M-10_Director_s_Edit_Version___Evangelion_Finally",
+            name: "33. KOMM_2C_SUSSER_TOD_M-10(128k)",
             artist: "",
             cover: "./assets/img/.jpg",
-            source: "./assets/mp3/KOMM_2C_SUSSER_TOD_M-10_Director_s_Edit_Version___Evangelion_Finally(128k).mp3",
+            source: "./assets/mp3/KOMM_2C_SUSSER_TOD_M-10(128k).mp3",
             url: "",
             favorited: false
           },
